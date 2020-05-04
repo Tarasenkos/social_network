@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/social_network/static/css/main.e6f5003b.chunk.css",
+    "main.js": "/social_network/static/js/main.3addffad.chunk.js",
+    "main.js.map": "/social_network/static/js/main.3addffad.chunk.js.map",
+    "runtime-main.js": "/social_network/static/js/runtime-main.4f9f104b.js",
+    "runtime-main.js.map": "/social_network/static/js/runtime-main.4f9f104b.js.map",
+    "static/js/2.ff69cbc7.chunk.js": "/social_network/static/js/2.ff69cbc7.chunk.js",
+    "static/js/2.ff69cbc7.chunk.js.map": "/social_network/static/js/2.ff69cbc7.chunk.js.map",
+    "index.html": "/social_network/index.html",
+    "precache-manifest.0b8e80f5bd3e44e755acda8b1cb592cf.js": "/social_network/precache-manifest.0b8e80f5bd3e44e755acda8b1cb592cf.js",
+    "service-worker.js": "/social_network/service-worker.js",
+    "static/css/main.e6f5003b.chunk.css.map": "/social_network/static/css/main.e6f5003b.chunk.css.map",
+    "static/js/2.ff69cbc7.chunk.js.LICENSE.txt": "/social_network/static/js/2.ff69cbc7.chunk.js.LICENSE.txt",
+    "static/media/hired_200.png": "/social_network/static/media/hired_200.337c8760.png",
+    "static/media/looking_for_job.png": "/social_network/static/media/looking_for_job.a0cc2c41.png",
+    "static/media/preloader.svg": "/social_network/static/media/preloader.35a4222a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f9f104b.js",
+    "static/js/2.ff69cbc7.chunk.js",
+    "static/css/main.e6f5003b.chunk.css",
+    "static/js/main.3addffad.chunk.js"
+  ]
+}
