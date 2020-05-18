@@ -1,0 +1,19 @@
+.wall_container {
+    
+    
+    
+    grid-area: wall;
+    
+    z-index: 10;
+   
+    
+   
+  
+}
+.posts_wrap{
+    margin-top:10px;
+    
+    
+    
+
+};

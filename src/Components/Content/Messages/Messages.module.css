@@ -1,0 +1,39 @@
+.messages {
+  position: relative;
+  margin-left: 60px;
+  width:600px;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.field{
+  
+  
+  width:450px;
+  border-radius: 3px;
+  background: #fff;
+  color: #000;
+  border: 1px solid #c0cad5;
+  min-height: 120px;
+  padding: 5px;
+  overflow: auto;
+  outline: none;
+  resize: none;
+  line-height: 150%;
+  word-wrap: break-word;
+  cursor: text;
+  box-sizing: border-box;
+}
+@media (max-width:770px){
+  .messages {
+   
+    margin: 0 auto;
+    min-width: 320px;
+    position: relative;
+    
+   
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+}

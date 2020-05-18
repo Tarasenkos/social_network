@@ -1,0 +1,76 @@
+.form{
+ 
+  height: auto;
+  
+
+}
+.field_wrap{
+  
+  margin: 10px 120px 0px 15px;
+  
+  
+ 
+  
+}
+
+.field{
+  
+  width: 100%;
+  min-height: 30px;
+  max-height: 200px;
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 5px;
+  background: #fff;
+  color: #000;
+  border: 1px solid #c0cad5;
+  
+  padding: 10px;
+  overflow: auto;
+  outline: none;
+  resize: none;
+  
+  word-wrap: break-word;
+  cursor: text;
+  box-sizing: border-box;
+ 
+}
+
+.controls{
+  
+  min-height: 100%;
+  
+    
+  }
+  
+  .button_wrap {
+    float: right;
+    position: relative;
+    top: -45px;
+    right: 10px;
+    height: 30px;
+    width: 100px;
+    margin: auto;
+    
+  }
+  
+  .button{
+    width: 100%;
+    height: 30px;
+    font-size: 13px;
+    border: 1px solid #d3d9de;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: teal;
+    font-weight: 600;
+    color: white;
+    outline: none;
+    
+  }
+  
+  .button:hover{
+    background-color: rgb(1, 143, 143);
+    cursor: pointer;
+  
+  }
+

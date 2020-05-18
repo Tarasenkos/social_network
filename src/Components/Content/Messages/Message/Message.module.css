@@ -1,0 +1,183 @@
+.messageList {
+  position: fixed;
+  top:50px;
+  width:600px;
+  max-width:100%;
+  bottom: 10px;
+  background-color: white;
+  box-shadow: 0px 0px 3px 0px grey;
+  border-radius: 5px;
+  
+  overflow: hidden;
+  box-sizing: border-box;
+  
+ 
+}
+
+.messageList_header{
+  position: relative;
+  display: block;
+  height: 45px;
+  border-bottom: solid 1px #e7e8ec;
+  
+  
+}
+
+.messageList_footer{
+  position: fixed;
+  
+  background-color: rgb(250, 251, 252);
+  bottom: 10px;
+  border-top: solid 1px #e7e8ec;
+  width: 600px;
+  max-width: 100%;
+  border-radius: 0 0 5px 5px;
+  height: 75px;
+  
+  z-index: 100;
+  box-sizing: border-box;
+  
+}
+
+.message {
+  line-height: 18px;
+  word-wrap: break-word;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.messages_area {
+  max-height: calc(100% - 120px);
+  overflow: scroll;
+  
+
+}
+
+.message_wrap {
+  display: block;
+  position: relative;
+  height: auto;
+  font-size: calc(10px + 0.5vmin);
+  padding-left: 15px;
+  margin-left: 28px;
+  margin-right: 28px;
+  box-sizing: border-box;
+  padding-right: 28px;
+
+}
+
+.unread{
+  background-color: #edf0f5;
+  display: block;
+  position: relative;
+  height: auto;
+  font-size: calc(10px + 0.5vmin);
+  padding-left: 15px;
+  margin-left: 28px;
+  margin-right: 28px;
+  box-sizing: border-box;
+  padding-right: 28px;
+}
+
+.photo_wrap{
+
+  padding-top:15px;
+  padding-right: 15px;
+  display: block;
+  float: left;
+}
+
+.photo_wrap_outer{
+  display: block;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+  border-radius: 50%;
+
+}
+
+.photo_wrap_outer img{
+  vertical-align: middle;
+  position: relative;
+  left: -1px;
+  top:-1px;
+  width:40px;
+  height: 40px;
+}
+
+.content_wrap{
+  margin-left: 65px;
+  padding-right: 15px;
+  position: relative;
+  display: block;
+  text-decoration: none;
+
+}
+.item_content{
+  height: 70px;
+  padding: 10px 0;
+  position: relative;
+  box-sizing: border-box;
+    
+
+}
+
+.name {
+  font-size: calc(10px + 0.5vmin);
+  color: black;
+  font-weight: 600;
+  font-size: 13px;
+  text-decoration: none;
+
+}
+
+.name_line {
+  
+  height: 29px;
+  margin-top: 3px;
+  margin-bottom: 7px;
+
+}
+
+.time{
+
+  margin-left:5px;
+  color: rgba(119,126,140,0.6);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.4;
+
+}
+
+.date{
+
+  color: rgb(130, 130, 130);
+  text-align: center;
+  font-size: 12.5px;
+  font-weight: 400;
+  -webkit-font-smoothing: subpixel-antialiased;
+  position: relative;
+
+  margin: 15px 0;
+ 
+  line-height: 1.4;
+
+}
+
+
+
+
+
+.link {
+  text-decoration: none;
+}
+
+.info{
+  height: auto;
+  padding: 0 0 20px;
+  position: relative;
+  box-sizing: border-box;
+}
+
+
+

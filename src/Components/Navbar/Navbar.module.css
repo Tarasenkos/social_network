@@ -1,0 +1,38 @@
+.wrap{
+  position: fixed;
+  top:50px;
+  width:150px;
+
+}
+
+@media (max-width: 770px) {
+
+  .wrap{
+    display: none;
+}
+
+}
+
+.item {
+  grid-area: navbar;
+  font-size: 13px;
+  padding-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  color: #2a5572;
+  min-width: 100%;
+  
+
+  
+  
+}
+
+.item:hover {
+  background-color: #e1e5eb;
+  
+}
+
+.link {
+  text-decoration: none;
+  
+}

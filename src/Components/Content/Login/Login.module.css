@@ -1,0 +1,88 @@
+.body{
+  
+display: inline-block;
+margin: auto;
+max-width: 100%;
+
+
+}
+
+
+.form{
+width: 310px;
+max-width: 100%;
+
+
+}
+.field_text {
+  height: 20px;
+  font-size: 14px;
+  width: 300px;
+  padding: 6px 0px 8px 10px;
+  margin-bottom: 10px;
+  border: 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+  outline: none;
+
+}
+
+
+.checkbox_area {
+ 
+  padding: 5px;
+  margin: 5px;
+  padding-left: 0;
+  margin-left: 0;
+  
+}
+
+.checkbox_area input {
+ 
+  float: left;
+  padding-left: 0;
+  margin-left: 0;
+  
+}
+
+.checkbox_text {
+  
+ 
+  margin-left: 30px;
+}
+.button_border{
+
+  padding: 10px;
+  width: 80px;
+  padding-left: 0;
+  
+ 
+  float: left;
+  
+}
+.button {
+  border-radius: 4px;
+  width: 100%;
+  height: 25px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+  
+}
+
+.error {
+  
+  height: 25px; 
+  font-size: 13px;
+  padding:10px 10px 0 10px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 4px;
+  display: table-cell; 
+  vertical-align: middle;
+  color: white;
+  font-weight: bold;
+  float: right;
+  background-color: salmon;
+  max-width: 100%;
+}

@@ -1,0 +1,62 @@
+.field_wrap{
+  display: block;
+  margin: 13px 0 10px 0;
+  position: relative;
+}
+
+.field{
+  
+  
+  width:450px;
+  max-width: 100%;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: 400;
+  background: #fff;
+  color: #000;
+  border: 1px solid #c0cad5;
+  min-height: 120px;
+  padding: 5px;
+  overflow: auto;
+  outline: none;
+  resize: none;
+  line-height: 150%;
+  word-wrap: break-word;
+  cursor: text;
+  box-sizing: border-box;
+ 
+}
+
+.controls{
+
+    height: 30px;
+    
+  }
+  
+  .button_wrap {
+    height: 30px;
+    width: 200px;
+    margin: auto;
+    
+  }
+  
+  .button{
+    width: 180px;
+    height: 30px;
+    font-size: 13px;
+    border: 1px solid #d3d9de;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: teal;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    
+  }
+  
+  .button:hover{
+    background-color: rgb(1, 143, 143);
+  
+  }
+
